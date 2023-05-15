@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @m-borraccino
-- 👀 I’m interested in everything makes me courios.
-- 🌱 I’m currently studying robotics and automation master degree, in Pisa Italy.
+- 👀 I’m interested in everything that makes me curious.
+- 🌱 I'm a Robotic and Automation Engineer with an electronic background.
 - 📫 How to reach me: send a mail to m.borraccino94@gmail.com
 
 <!---
